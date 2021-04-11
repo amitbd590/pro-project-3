@@ -1,0 +1,81 @@
+
+
+@media screen and (max-width: 1200px) {
+   
+
+
+  }
+
+@media screen and (max-width: 992px) {
+   
+  #hero-section h2 {
+    font-size: 50px;
+    font-weight: bold;
+    color: #eeeeee;
+    margin-left: 0px; 
+    margin-right: 0px;
+    margin-top: 80px;
+    text-align: center;
+}
+#hero-section p {
+  font-size: 14px;
+  color: #eeeeee;
+  font-weight: normal;
+  margin-left: 0;
+  margin-top: 30px;
+  margin-right: 220px;
+}
+#hero-section .button-bar {
+  margin-left: 0;
+}
+#hero-section .button-bar a {
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+
+
+  }
+
+@media screen and (max-width: 786px) {
+   
+
+
+
+
+  }
+
+
+@media screen and (max-width: 576px) {
+
+   #hero-section h2 {
+    font-size: 31px;
+    font-weight: bold;
+    color: #eeeeee;
+    margin-left: 0px; 
+    margin-right: 0px;
+    margin-top: 80px;
+    text-align: center;
+}
+#hero-section p{
+  font-size: 14px;
+  color: #eeeeee;
+  font-weight: normal;
+  margin-left: 0px;
+  margin-top: 30px;
+  margin-right: 0px;
+  text-align: center;
+}
+#hero-section .button-bar {
+  margin-left: 0;
+  margin-top: 45px;
+  margin-bottom: 80px;
+  text-align: center;
+}
+#hero-section .button-bar a {
+  margin-right: 0px;
+  margin-bottom: 20px;
+}
+
+
+
+  }
